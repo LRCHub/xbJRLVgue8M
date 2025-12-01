@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Catch up, latency",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-01T01:09:14.708705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Catch",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/01_Catch_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/02_Would_You_Catch_a_Falling_Star_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": false,
+      "path": "select/03_Would_You_Catch_a_Falling_Star_John_Anderson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Catch Myself Catching Myself",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/04_Catch_Myself_Catching_Myself_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "0 To 100 / The Catch Up",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_0_To_100___The_Catch_Up_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Catch Me",
+      "artist": "Nicki Minaj",
+      "has_synced": false,
+      "path": "select/06_Catch_Me_Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Catch Up",
+      "artist": "Ludacris feat. Infamous 2-0 & Fate Wilson",
+      "has_synced": true,
+      "path": "select/07_Catch_Up_Ludacris_feat._Infamous_2-0_&_Fate_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Catch Me (feat. Naaz)",
+      "artist": "Yellow Claw feat. Flux Pavilion & Naaz",
+      "has_synced": true,
+      "path": "select/08_Catch_Me_(feat._Naaz)_Yellow_Claw_feat._Flux_Pavilion_&_Naaz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catch Me (feat. Naaz)",
+      "artist": "Yellow Claw & Flux Pavilion",
+      "has_synced": true,
+      "path": "select/09_Catch_Me_(feat._Naaz)_Yellow_Claw_&_Flux_Pavilion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catch The Sun - From \"Queen & Slim: The Soundtrack\"",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/10_Catch_The_Sun_-_From__Queen_&_Slim__The_Soundtrack_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Catch a Thief",
+      "artist": "Lovage",
+      "has_synced": false,
+      "path": "select/11_To_Catch_a_Thief_Lovage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To Catch A Thief",
+      "artist": "Lovage",
+      "has_synced": false,
+      "path": "select/12_To_Catch_A_Thief_Lovage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Catch the Wind",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/13_Catch_the_Wind_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Catch The Wind",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/14_Catch_The_Wind_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Catch Me If You Can",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/15_Catch_Me_If_You_Can_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Catch Me If You Can",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/16_Catch_Me_If_You_Can_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Catch My Eye",
+      "artist": "Danglo feat. Ivan Franco",
+      "has_synced": false,
+      "path": "select/17_Catch_My_Eye_Danglo_feat._Ivan_Franco.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Catch My Eye (feat Ivan Franco)",
+      "artist": "Danglo",
+      "has_synced": false,
+      "path": "select/18_Catch_My_Eye_(feat_Ivan_Franco)_Danglo.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Catch up, latency",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_Catch_up,_latency_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
